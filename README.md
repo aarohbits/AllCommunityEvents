@@ -1,1 +1,1 @@
-# AllCommunitEvents
+# All Community Events
