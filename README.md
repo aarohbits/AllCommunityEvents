@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AllCommunity Events
 
 ## 27 Apr 2024 Develop a speech-to-text app using Python & Azure OpenAI
@@ -11,3 +12,6 @@
 
 3. Code Used 
 [Python Code Used](<20240427 Develop a speech-to-text app using Python & Azure OpenAI/03 Slide Deck - Code Used/02 Python Code.txt>)
+=======
+# All Community Events
+>>>>>>> 22f665a2853ea6d93597fd5e857d8c932d2b33ce
