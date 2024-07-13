@@ -1,0 +1,58 @@
+1. 
+
+give me a list of top 10 cricketers in the world  
+
+	Navie prompt 
+
+
+Product Description: A home milkshake maker
+Seed words: fast, healthy, compact 
+Product names: HomeShaker, Fit Shaker, QuickShake, Shake Maker
+
+Product Description: A pair of shoes that can fit any foot size. 
+Seed words: adaptable, fit, omni-fit
+Product names: 
+
+	More Engg prompt
+	
+	
+2. Template 
+
+Tell me an AI Joke 
+
+
+3. ChatGPT Prompt Pack
+
+https://brightpool.notion.site/ChatGPT-Prompt-Pack-ddaaee466a434527a58a4d6fc3027fb5 
+
+
+3. 1st Giving Direction 
+
+Can I have 10 product names for a pair of shoes that can fit any foot size?
+
+
+Brainstorm a list of product names for a pair of shoes that can fit any foot size in the style of Steve Jobs
+
+
+4. 2st Specify Format
+
+Returns the results as a comma sperated list, in this format
+Product Description:  A shoe that fits any foot size
+Product Names: [list of 3 product names]
+
+5. 3rd Giving Examples 
+
+##Examples
+
+Product Description:  A refrigerator that dispenses beer
+Product Names: iBarFridge, iFridgeBeer, iDrinkBeerFridge
+
+
+DEMO ALL 5 Principles 
+
+give me 5 Power Platform third  governance tools tools with references in a table format 
+
+
+
+
+
