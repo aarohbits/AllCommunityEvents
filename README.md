@@ -44,3 +44,6 @@ Navigating the Role of Software Architecture in the AI Era Amid Economic Volatil
 3. Code Used 
 [Python Code Used](<20240427 Develop a speech-to-text app using Python & Azure OpenAI/03 Slide Deck - Code Used/02 Python Code.txt>)
 
+
+## 21 Feb 2026 - GPPB2026 -  Tamil Nadu 
+[GPPB2026 -  Tamil Nadu -  Microsoft 365 Copilot Chat Secure AI chat for everyone. ](<2026/02 GPPB 2026 Tamil Nadu/GPPB2026 -  Tamil Nadu -  Microsoft 365 Copilot Chat Secure AI chat for everyone.pdf>)
