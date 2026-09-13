@@ -60,8 +60,8 @@ Navigating the Role of Software Architecture in the AI Era Amid Economic Volatil
 > - 🔭 Use observability to understand agent behavior.
 > - 🛡️ Apply guardrails for safer and more trustworthy AI.
 
-### [Step by Step with Screenshots_Agentic_RAG_with_Microsoft Foundry and Guardrails](<2026/06 Sept 2026 Brisbane UG/Step by Step with Screenshots_Agentic_RAG_with_Guardrails_Step_by_Step - FOR DEMO Aroh.docx>)
-> **🚀 What You'll Build**
+### Step by Step with Screenshots_Agentic_RAG_with_Microsoft Foundry and Guardrails
+> **🚀 What You'll Build**[[Step by Step with Screenshots_Agentic_RAG_with_Microsoft Foundry and Guardrails]](<2026/06 Sept 2026 Brisbane UG/Step by Step with Screenshots_Agentic_RAG_with_Guardrails_Step_by_Step - FOR DEMO Aroh.pdf>)
 >
 > - 📚 **Single Source of Truth:** Store enterprise documents once in Azure Blob Storage and use them as the foundation for RAG.
 > - 🔎 **Intelligent Retrieval:** Use Azure AI Search and Foundry IQ for indexing, knowledge sources, knowledge bases, and agentic retrieval.
