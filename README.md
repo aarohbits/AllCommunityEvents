@@ -47,3 +47,8 @@ Navigating the Role of Software Architecture in the AI Era Amid Economic Volatil
 
 ## 21 Feb 2026 - GPPB2026 -  Tamil Nadu 
 [GPPB2026 -  Tamil Nadu -  Microsoft 365 Copilot Chat Secure AI chat for everyone. ](<2026/02 GPPB 2026 Tamil Nadu/GPPB2026 -  Tamil Nadu -  Microsoft 365 Copilot Chat Secure AI chat for everyone.pdf>)
+
+
+## 06 Sept 2026 - Copilot Studio User Group, Brisbane (Australia)  
+[Building Enterprise-Ready AI Agents with Microsoft #Foundry with Guardrails](<2026/06 Sept 2026 Brisbane UG>)
+
