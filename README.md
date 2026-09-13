@@ -50,5 +50,13 @@ Navigating the Role of Software Architecture in the AI Era Amid Economic Volatil
 
 
 ## 06 Sept 2026 - Copilot Studio User Group, Brisbane (Australia)  
-[Building Enterprise-Ready AI Agents with Microsoft #Foundry with Guardrails](<2026/06 Sept 2026 Brisbane UG>)
+### [Building Enterprise-Ready AI Agents with Microsoft Foundry with Guardrails](<2026/06 Sept 2026 Brisbane UG>)
+### [Step by Step with Screenshots_Agentic_RAG_with_Microsoft Foundry and Guardrails](<2026/06 Sept 2026 Brisbane UG/Step by Step with Screenshots_Agentic_RAG_with_Guardrails_Step_by_Step - FOR DEMO Aroh.docx>)
+
+> 🤖 Build Enterprise-Ready AI Agents using Microsoft Foundry, combining enterprise knowledge with intelligent agent experiences.
+> 🔎 Ground agents with RAG so responses come from trusted enterprise data rather than relying only on the model’s knowledge.
+> 🧠 Improve retrieval with Azure AI Search using hybrid search that combines keyword and vector search, followed by reranking for better results.
+> 🔭 Use Observability to understand and troubleshoot how agents reason, retrieve information, call tools, and generate responses.
+> 🛡️ Apply Guardrails alongside grounding to build safer and more trustworthy AI agents by controlling what agents are allowed to do, say, and generate.
+
 
