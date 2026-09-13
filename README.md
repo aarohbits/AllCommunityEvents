@@ -51,14 +51,20 @@ Navigating the Role of Software Architecture in the AI Era Amid Economic Volatil
 
 ## 06 Sept 2026 - Copilot Studio User Group, Brisbane (Australia)  
 ### [Building Enterprise-Ready AI Agents with Microsoft Foundry with Guardrails](<2026/06 Sept 2026 Brisbane UG>)
-### [Step by Step with Screenshots_Agentic_RAG_with_Microsoft Foundry and Guardrails](<2026/06 Sept 2026 Brisbane UG/Step by Step with Screenshots_Agentic_RAG_with_Guardrails_Step_by_Step - FOR DEMO Aroh.docx>)
 
-> > **Key Takeaways**
+> 🤖 Build Enterprise-Ready AI Agents using Microsoft Foundry, combining enterprise knowledge with intelligent agent experiences.
+> 🔎 Ground agents with RAG so responses come from trusted enterprise data rather than relying only on the model’s knowledge.
+> 🧠 Improve retrieval with Azure AI Search using hybrid search that combines keyword and vector search, followed by reranking for better results.
+> 🔭 Use Observability to understand and troubleshoot how agents reason, retrieve information, call tools, and generate responses.
+> 🛡️ Apply Guardrails alongside grounding to build safer and more trustworthy AI agents by controlling what agents are allowed to do, say, and generate.
+
+### [Step by Step with Screenshots_Agentic_RAG_with_Microsoft Foundry and Guardrails](<2026/06 Sept 2026 Brisbane UG/Step by Step with Screenshots_Agentic_RAG_with_Guardrails_Step_by_Step - FOR DEMO Aroh.docx>)
+> **🚀 What You'll Build**
 >
-> - 🤖 Build enterprise-ready AI agents using Microsoft Foundry.
-> - 🔎 Ground agents with enterprise data using RAG.
-> - 🧠 Improve retrieval using Azure AI Search.
-> - 🔭 Use observability to understand agent behavior.
-> - 🛡️ Apply guardrails for safer and more trustworthy AI.
+> - 📚 **Single Source of Truth:** Store enterprise documents once in Azure Blob Storage and use them as the foundation for RAG.
+> - 🔎 **Intelligent Retrieval:** Use Azure AI Search and Foundry IQ for indexing, knowledge sources, knowledge bases, and agentic retrieval.
+> - 🧠 **Grounded AI Agent:** Connect a Microsoft Foundry Agent to the knowledge base so responses are grounded in enterprise data.
+> - 🔐 **Enterprise Security:** Use Managed Identity and Azure RBAC to securely connect Storage, Azure AI Search, and Microsoft Foundry without storing account keys.
+> - 🛡️ **Guardrails:** Apply agent instructions and guardrails to build safer, controlled, and enterprise-ready AI responses.
 
 
